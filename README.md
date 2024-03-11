@@ -1,7 +1,6 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:99f8ff,100:e0faff&height=180&text=☁Yujin's%20github☁&animation=fadeIn&fontColor=000000&fontSize=60" />
   
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">배우고 있는</h2>
   <div style="margin: 0 auto; text-align: center;" align= "center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -13,11 +12,7 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </div>
-  
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">배우고 싶은</h2>
-  <div style="margin: 0 auto; text-align: center;" align= "center">
-    <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">   
+    <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB">
   </div>
   
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"></h2>
