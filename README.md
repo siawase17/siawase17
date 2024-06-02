@@ -18,6 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siawase17&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=siawase17&show_icons=true">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qkrdbw)]
+  ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qkrdbw)
 </div>
     
