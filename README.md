@@ -19,6 +19,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siawase17&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=siawase17&show_icons=true">
       
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdbw)](https://solved.ac/qkrdbw)
 </div>
     
